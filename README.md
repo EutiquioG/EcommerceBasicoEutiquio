@@ -61,12 +61,9 @@ Métodos implementados:
 
 ---
 
-##  Capturas
+## 📷 Capturas
 
-<img width="474" height="215" alt="Captura de pantalla 2026-02-21 153008" src="https://github.com/user-attachments/assets/5ffc6b1a-6d56-43c2-87e8-88a42da8a182" />
-<img width="233" height="143" alt="Captura de pantalla 2026-02-21 152958" src="https://github.com/user-attachments/assets/00fb070e-fb83-4304-8c63-c271b7982897" />
-<img width="373" height="316" alt="Captura de pantalla 2026-02-21 153035" src="https://github.com/user-attachments/assets/987d4686-332c-4cb8-a7d8-9237b3781ed7" />
-<img width="218" height="185" alt="Captura de pantalla 2026-02-21 153015" src="https://github.com/user-attachments/assets/2c250780-740c-40f0-99ea-d09b2687ec97" />
+(Aquí agregar capturas del programa ejecutándose)
 
 
 ---
@@ -77,7 +74,7 @@ Uno de los principales desafíos fue controlar correctamente el stock al agregar
 
 ---
 
-##  Cómo Ejecutar
+## 🚀 Cómo Ejecutar
 
 1. Clonar el repositorio
 2. Abrir en Visual Studio

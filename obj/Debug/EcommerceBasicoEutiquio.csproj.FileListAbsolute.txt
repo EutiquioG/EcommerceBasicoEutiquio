@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\EcommerceBasicoEutiquio\bin\Debug\EcommerceBasicoEutiquio.exe.config
+C:\Users\ASUS\source\repos\EcommerceBasicoEutiquio\bin\Debug\EcommerceBasicoEutiquio.exe
+C:\Users\ASUS\source\repos\EcommerceBasicoEutiquio\bin\Debug\EcommerceBasicoEutiquio.pdb
+C:\Users\ASUS\source\repos\EcommerceBasicoEutiquio\obj\Debug\EcommerceBasicoEutiquio.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\EcommerceBasicoEutiquio\obj\Debug\EcommerceBasicoEutiquio.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\EcommerceBasicoEutiquio\obj\Debug\EcommerceBasicoEutiquio.exe
+C:\Users\ASUS\source\repos\EcommerceBasicoEutiquio\obj\Debug\EcommerceBasicoEutiquio.pdb
