@@ -60,22 +60,24 @@ Métodos implementados:
 - CalcularTotal()
 
 ---
+<img width="474" height="215" alt="Captura de pantalla 2026-02-21 153008" src="https://github.com/user-attachments/assets/57e81124-d832-47d4-8911-8a3faa794479" />
+<img width="233" height="143" alt="Captura de pantalla 2026-02-21 152958" src="https://github.com/user-attachments/assets/102189b7-a322-44a5-9b1e-f1fe34d11c55" />
+<img width="373" height="316" alt="Captura de pantalla 2026-02-21 153035" src="https://github.com/user-attachments/assets/9d18702a-b736-4807-a7e2-118d801d3ff0" />
+<img width="218" height="185" alt="Captura de pantalla 2026-02-21 153015" src="https://github.com/user-attachments/assets/5700e9a1-157b-4c3f-a2de-61ad00ffe644" />
 
 ## 📷 Capturas
 
-(Aquí agregar capturas del programa ejecutándose)
 
 
----
-
-## ⚠ Desafíos Enfrentados
+##  Desafíos Enfrentados
 
 Uno de los principales desafíos fue controlar correctamente el stock al agregar y remover productos del carrito. Se solucionó validando el stock antes de agregar el producto y actualizando la cantidad disponible.
 
 ---
 
-## 🚀 Cómo Ejecutar
+##  Cómo Ejecutar
 
 1. Clonar el repositorio
 2. Abrir en Visual Studio
+
 3. Ejecutar el archivo Program.cs
